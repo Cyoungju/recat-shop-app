@@ -6,4 +6,4 @@ function ResigterPage(){
     </div>
 }
 
-export default Cartpage
+export default ResigterPage

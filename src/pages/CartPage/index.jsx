@@ -1,9 +1,9 @@
 import React from "react";
 
-function Cartpage(){
+function CartPage(){
     return <div>
-        Cartpage
+        CartPage
     </div>
 }
 
-export default Cartpage
+export default CartPage
