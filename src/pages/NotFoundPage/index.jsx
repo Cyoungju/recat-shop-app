@@ -1,9 +1,9 @@
 import React from "react";
 
-function NotFonundpage(){
+function NotFonundPage(){
     return <div>
-        NotFonundpage
+        NotFonundPage
     </div>
 }
 
-export default NotFonundpage
+export default NotFonundPage
