@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className='container'>
-        <div class={styles.contacts}>
+        <div className={styles.contacts}>
           <a href='https://github.com'>
             {" "}
             <BsGithub></BsGithub>
